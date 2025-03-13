@@ -13,6 +13,7 @@
   <ItemGroup>
     <MauiXaml Update="Views\VastagAtilaView.xaml">
     <MauiXaml Update="Views\ZsigaNorbert.xaml">
+    <MauiXaml Update="Views\NagyMate.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>

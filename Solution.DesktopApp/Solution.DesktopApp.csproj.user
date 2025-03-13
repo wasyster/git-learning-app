@@ -17,6 +17,7 @@
     <MauiXaml Update="Views\CsomboVargaBenedek.xaml">
     <MauiXaml Update="Views\KondorMilan.xaml">
     <MauiXaml Update="Views\Pal-Patrik-view.xaml">
+    <MauiXaml Update="Views\PappDanielView.xaml">
     <MauiXaml Update="Views\KomocsinBenceView.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>

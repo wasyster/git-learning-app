@@ -13,6 +13,9 @@
   <ItemGroup>
     <MauiXaml Update="Views\VastagAtilaView.xaml">
     <MauiXaml Update="Views\NagyMate.xaml">
+    <MauiXaml Update="Views\CsomboVargaBenedek.xaml">
+    <MauiXaml Update="Views\KondorMilan.xaml">
+    <MauiXaml Update="Views\Pal-Patrik-view.xaml">
     <MauiXaml Update="Views\PappDanielView.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>

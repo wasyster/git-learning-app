@@ -5,7 +5,7 @@
              Title="KaraszMateView">
     <VerticalStackLayout>
         <Label 
-            Text="Welcome to .NET MAUI! teszt"
+            Text="Welcome to .NET MAUI! teszst"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
     </VerticalStackLayout>

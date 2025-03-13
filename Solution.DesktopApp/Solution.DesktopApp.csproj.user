@@ -11,7 +11,7 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
-    <MauiXaml Update="Views\WittnerAttila.xaml">
+    <MauiXaml Update="Views\VastagAtilaView.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>

@@ -130,6 +130,7 @@
 	  <MauiXaml Update="Views\NagyMate.xaml">
 	  <MauiXaml Update="Views\ZsigaNorbert.xaml">
 	  <MauiXaml Update="Views\KondorMilan.xaml">
+	  <MauiXaml Update="Views\KomocsinBenceView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

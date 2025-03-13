@@ -12,6 +12,7 @@
   </ItemGroup>
   <ItemGroup>
     <MauiXaml Update="Views\VastagAtilaView.xaml">
+    <MauiXaml Update="Views\ZsigaNorbert.xaml">
     <MauiXaml Update="Views\NagyMate.xaml">
     <MauiXaml Update="Views\CsomboVargaBenedek.xaml">
     <MauiXaml Update="Views\KondorMilan.xaml">

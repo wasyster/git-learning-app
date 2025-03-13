@@ -123,7 +123,6 @@
 
 	<ItemGroup>
 	  <MauiXaml Update="Views\NagyMate.xaml">
-	  <MauiXaml Update="Views\KomocsinBenceView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

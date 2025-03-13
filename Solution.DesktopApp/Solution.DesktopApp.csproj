@@ -108,6 +108,8 @@
 	  </Compile>
 	  <Compile Update="Views\ZsigaNorbert.xaml.cs">
 	    <DependentUpon>ZsigaNorbert.xaml</DependentUpon>
+	  <Compile Update="Views\KondorMilan.xaml.cs">
+	    <DependentUpon>KondorMilan.xaml</DependentUpon>
 	  </Compile>
 	</ItemGroup>
 
@@ -127,6 +129,7 @@
 	<ItemGroup>
 	  <MauiXaml Update="Views\NagyMate.xaml">
 	  <MauiXaml Update="Views\ZsigaNorbert.xaml">
+	  <MauiXaml Update="Views\KondorMilan.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

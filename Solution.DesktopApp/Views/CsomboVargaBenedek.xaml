@@ -5,7 +5,7 @@
              Title="CsomboVargaBenedek">
     <VerticalStackLayout>
         <Label 
-            Text="Igris the goat"
+            Text="Igris the goat sigma"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
     </VerticalStackLayout>

@@ -3,4 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Solution.DesktopApp.Views.PappDanielView"
              Title="PappDanielView">
+
+    <VerticalStackLayout>
+        
+    </VerticalStackLayout>
+
 </ContentPage>
